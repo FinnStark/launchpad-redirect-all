@@ -1,0 +1,9 @@
+{
+    name: "launchpad-redirect",
+    displayName: "Launchpad Redirect (v8)",
+    author: "FinnStark (based on the original by QmelZ)",
+    description: "Select one of your sectors on the planet map and press \"Redirect here\": the export destination of all your other sectors is set to it.",
+    version: 6,
+    minGameVersion: 160,
+    hidden: true
+}
