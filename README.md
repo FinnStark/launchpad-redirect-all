@@ -1,4 +1,4 @@
-# launchpad-redirect (v8)
+# launchpad-redirect
 
 Redirects the exports of all your sectors to one sector with a single click.
 
